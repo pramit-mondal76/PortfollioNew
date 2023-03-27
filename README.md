@@ -5,3 +5,5 @@
 
 
 https://pramitorg.netlify.app/
+
+Command For Run : npm run dev
