@@ -6,8 +6,8 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 const data = [
   { number: 50, text: 'Open Source Contribution' },
   { number: 100, text: 'Qs solved in leetcode and GFG ', },
-  { number: 1, text: 'Attend Offline Hacathon [MLH]', },
- 
+  { number: 1, text: 'Attend Offline Hackathon [MLH]', },
+
 ];
 
 const Acomplishments = () => (

@@ -8,6 +8,7 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle>
+        {/* <Image src="../images/a.png" alt="My Image" width={500} height={500} /> */}
         Welcome To <br />
         My Personal Portfollio .
       </SectionTitle>
@@ -16,7 +17,7 @@ const Hero = (props) => (
 
 
       </SectionText>
-      <Button onClick={() => window.location = "https://drive.google.com/file/d/1lH5P725k-_8L4U-g0VomKvBVMxRyOJeK/view?usp=share_link"}>Hire Me</Button>
+      <Button onClick={() => window.location = "https://drive.google.com/file/d/1qKLNh5rOzMId4ZhANdP19jCN-SqnMn_Q/view"}>Hire Me</Button>
 
     </LeftSection>
   </Section>

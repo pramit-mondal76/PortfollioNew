@@ -1,5 +1,7 @@
 import React from 'react';
 
+
+
 import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
 
 const Footer = () => {
@@ -8,11 +10,11 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>connect with</LinkTitle>
-          <LinkItem href="https://www.google.com/">pramit.site</LinkItem>
+          <LinkItem href="https://www.pramit.site/">pramit.site</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:contact@jsmastery.com">
+          <LinkItem href="mailto:mondalpramit76@gmail.com">
             mondalpramit76@gmail.com
           </LinkItem>
         </LinkColumn>
@@ -20,10 +22,11 @@ const Footer = () => {
       <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>      @PramitMondal | 2023 </Slogan>
+
         </CompanyContainer>
 
       </SocialIconsContainer>
-    </FooterWrapper>
+    </FooterWrapper >
   );
 };
 
