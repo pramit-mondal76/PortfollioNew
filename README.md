@@ -1,6 +1,9 @@
 ## Personal Portfolio
+![Screenshot 2023-03-27 040123](https://user-images.githubusercontent.com/95114633/227980219-e1e4b70a-d309-4408-afd3-d332ab45b15d.png)
 
 
-![Screenshot 2023-03-27 040126](https://user-images.githubusercontent.com/95114633/227808789-3e50eedd-c817-4852-aa29-fee65f2fb01b.png)
 
-https://pramitportfollio.netlify.app/
+
+https://pramitorg.netlify.app/
+
+Command For Run : npm run dev
